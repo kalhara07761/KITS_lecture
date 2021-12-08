@@ -1,0 +1,28 @@
+*{
+    font-family: 'Arial Black';
+}
+
+.second-hedding{
+    font-size: 70px;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+.list{
+    text-align: center;
+}
+.test-headding{
+    text-align: center;
+    font-size: 20px;
+    font-family: bold;
+    color: yellow;
+}
+.headding-1{
+    text-align: center;
+    color: red;
+
+}
+.main-image{
+    width: 400px;
+    height: 400px;
+}
